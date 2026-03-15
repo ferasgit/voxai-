@@ -1,0 +1,7 @@
+streamlit
+groq
+python-dotenv
+elevenlabs
+SpeechRecognition
+pydub
+streamlit-mic-recorder
